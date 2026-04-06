@@ -1,0 +1,9 @@
+streamlit
+transformers==4.37.2
+torch
+sentencepiece
+sumy
+bert-extractive-summarizer
+nltk
+rouge-score
+matplotlib
